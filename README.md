@@ -1,5 +1,5 @@
 <div id="header" align="center" display="flex" flex-direction="column" align-item="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cnd4aWpmb3Y5eGlvYXJhYmRwNG0xOG5yaXYwOTRrYmYzN3kzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cnd4aWpmb3Y5eGlvYXJhYmRwNG0xOG5yaXYwOTRrYmYzN3kzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="800" height='80'/>
 </div>
 <h1 align="center">Hi, I'm Harika Boppana</h1>
 <h3 align="center">Welcome to my GitHub!</h3>
