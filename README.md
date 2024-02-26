@@ -1,9 +1,11 @@
+<div id="header" align="center" display="flex" flex-direction="column" align-item="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg0cnd4aWpmb3Y5eGlvYXJhYmRwNG0xOG5yaXYwOTRrYmYzN3kzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="300"/>
+</div>
 <h1 align="center">Hi, I'm Harika Boppana</h1>
-<h3 align="center">A computer science enthusiast.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-ri-ka&label=Profile%20views&color=0e75b6&style=flat" alt="ha-ri-ka" /> </p>
-
-
+<h3 align="center">Welcome to my GitHub!</h3>
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=Ha-ri-ka&style=flat-square&color=blue" alt=""/>
+</div>
 <p align="left">
 </p>
 
