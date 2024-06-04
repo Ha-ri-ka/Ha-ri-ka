@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ha-ri-ka&style=flat-square&color=blue" alt=""/>
 </div>
 :sparkles:About Me:<br>
-:mortar_board:I am a 3rd Year Computer Science Student at MIT,Manipal specializing in Artificial Intelligence and Machine Learning.<br>
+:mortar_board:I am a 4th Year Computer Science Student at MIT,Manipal specializing in Artificial Intelligence and Machine Learning.<br>
 💗 Problem-solving and building innovative solutions using tech are my primary goals as a CS enthusiast.<br>
 🤖 I am particularly passionate about machine learning and enjoy exploring new algorithms and techniques to build real-world applications.<br>
 🌐 Additionally, I love working on web development projects, creating responsive and user-friendly interfaces.<br>
