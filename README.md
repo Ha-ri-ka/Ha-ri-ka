@@ -47,9 +47,6 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
   </a> 
-  <a href="https://behave.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/b6eecce8413f25147c4b2f91d15963302c8c1e1a249ef406923c94b45a8b309b/68747470733a2f2f6265686176652e72656164746865646f63732e696f2f656e2f6c61746573742f5f7374617469632f6265686176652e706e67" alt="behave" width="40" height="40"/> 
-  </a> 
 </p>
 
 <div align='center'>
